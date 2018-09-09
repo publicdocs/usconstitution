@@ -2,7 +2,7 @@
 
 **Important notes:**
 
-* Use of this file is subject to the NOTICE at [https://github.com/publicdocs/notice/blob/master/NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
+* Use of this file is subject to the NOTICE at [https://publicdocs.github.io/notice/NOTICE.txt](https://github.com/publicdocs/notice/blob/master/NOTICE)
 * Document Metadata:
   * This is a Markdown edition of the US Constitution.
   * Original provenance of plain text
